@@ -51,7 +51,7 @@ st.markdown(tabs_html, unsafe_allow_html=True)
 
 
 #Menu
-if active_tab == "Home":
+"""if active#_tab == "Home":
     home.write()
 elif active_tab == "Education":
     Education.write()
@@ -61,4 +61,4 @@ elif active_tab == "Age":
     Age.write()
 
 else:
-    st.error("Something has gone terribly wrong.")
+    st.error("Something has gone terribly wrong.")"""
